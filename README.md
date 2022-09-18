@@ -1,4 +1,13 @@
-Huck Boles
+## Huck Boles
+
 ----------
 
-Repos for personal projects, as well as my personal dotfiles and random helpful information.
+Packages I maintain: ***aursh***
+
+Languages I use:
+- bash
+- perl
+- python
+
+
+
