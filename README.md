@@ -1,7 +1,5 @@
 ## Huck Boles
 
-----------
-
 Packages I maintain: ***aursh***
 
 Languages I use:
