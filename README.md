@@ -1,6 +1,6 @@
 ## Huck Boles
 
-Packages I maintain: ***aursh***
+Things I maintain: ***aursh***, *zshmux*
 
 Languages I use:
 - bash
