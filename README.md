@@ -1,6 +1,6 @@
 ## Huck Boles
 
-Things I maintain: ***aursh***, *zshmux*,dfile,dmusic
+Things I maintain: ***aursh***, *zshmux*, dfile, dmusic
 
 Languages I use:
 - bash
