@@ -8,6 +8,7 @@
 ---------
 Languages I use in varying amounts:
 - shell/bash/zsh
+- c
 - lua
 - perl
 - python
