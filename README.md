@@ -1,7 +1,18 @@
 # Huck Boles
 
-Languages I use in varying amounts:
+## Things I've made:
+(Links to my personal git server)
+- [zshmux](https://git.huck.website/zshmux.git)
+
+
+## Languages I use:
 - rust
 - ruby
 - c
-- shell/bash/zsh
+- shell
+
+## My Setup:
+- Gentoo Linux
+- Zsh + Tmux
+- Alacritty
+- Neovim
