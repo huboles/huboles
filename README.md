@@ -15,7 +15,7 @@ all of my programs are available on my [website](https://huck.website/code):
 - c
 - shell
 
-### my Setup:
+### my setup:
 - gentoo linux
 - [zsh](https://git.huck.website/zsh.git) + tmux
 - alacritty
