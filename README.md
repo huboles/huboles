@@ -3,7 +3,7 @@
 ### things i've made:
 *i only mirror my repositories on github, and don't respond to pull requests or bug reports in a consistant or timely fashion here.*
 
-all of my programs are available on my [website](https://huck.website/code):
+all of my projects are available on my [website](https://huck.website/code):
 - [zshmux](https://huck.website/code/zshmux)
 - [odot](https://huck.website/code/odot)
 - [gol](https://huck.website/code/gol)
