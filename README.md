@@ -9,7 +9,7 @@ all of my projects are available on my [website](https://huck.website/code):
 - [gol](https://huck.website/code/gol)
 - [base](https://huck.website/code/base)
 
-### languages I use:
+### languages i use:
 - rust
 - ruby
 - c
