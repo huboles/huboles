@@ -4,6 +4,7 @@
 *i only mirror my repositories on github, and don't respond to pull requests or bug reports in a consistant or timely fashion here.*
 
 all of my projects are available on my [website](https://huck.website/code):
+- [cellseq](https://huck.website/code/cellseq)
 - [metaforge](https://huck.website/code/metaforge)
 - [zshmux](https://huck.website/code/zshmux)
 - [gol](https://huck.website/code/gol)
